@@ -23,7 +23,7 @@ This is a simple Python program that encrypts and decrypts text using the Caesar
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/PhantomMenace404/PRODIGY_CS_01.git
+    git clone https://github.com/r4gnir/CaesarCipher.git
     cd PRODIGY_CS_01
     ```
 
